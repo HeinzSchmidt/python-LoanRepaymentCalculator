@@ -1,4 +1,4 @@
-# python-LoanRepaymentCalculator
+# python-LoanRepaymentCalculator (v2)
 Use this to calculate the monthly payments on a loan with a specified:
  - Loan amount
  - Interest rate (APR)
